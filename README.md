@@ -105,12 +105,11 @@ Based on ISO/IEC 25010 standards:
 
 ## 📋 Modules Included
 
-1. **Authentication Module** - User login and role management
-2. **Menu Management Module** - Dish listing with ingredients
-3. **Order Processing Module** - Order placement and tracking
-4. **Inventory Control Module** - Stock level monitoring
-5. **Sales & Reporting Module** - Dashboard and analytics
-6. **User Management Module** - Admin control panel
+1. **Menu Management Module** - Dish listing with ingredients
+2. **Order Processing Module** - Order placement and tracking
+3. **Inventory Control Module** - Stock level monitoring
+4. **Sales & Reporting Module** - Dashboard and analytics
+5  **User Management Module** - Admin control panel
 
 ---
 
@@ -125,12 +124,6 @@ Based on ISO/IEC 25010 standards:
 
 ## 📄 License
 
-This project is developed for academic purposes as part of a Capstone Project at Sorsogon State University. Not intended for commercial distribution.
+This project is developed for academic purposes as part of a Capstone Project at Sorsogon State University.
 
 ---
-
-## 🔗 Links
-
-- **OutSystems Environment:** [Personal OutSystems](https://personal.outsystemscloud.com)
-- **Service Center:** [Service Center Login](https://personal.outsystemscloud.com/ServiceCenter)
-- **Live Demo:** (Available upon request)
