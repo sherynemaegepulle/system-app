@@ -123,6 +123,6 @@ Based on ISO/IEC 25010 standards:
 
 ## 📄 License
 
-This project is developed for academic purposes as part of a Capstone Project at Sorsogon State University.
+This project is developed for academic purposes as part of a Capstone Project at Sorsogon State University-Bulan Campus
 
 ---
