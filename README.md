@@ -1,5 +1,4 @@
-# 🍽️ TongsJerry Restaurant Management System
-
+# 🍽️ DEVELOPMENT OF AUTOMATED SYSTEM INTEGRATING MENU AND INVENTORY CONTROL FOR TONGS AND JERRY RESTAURANT
 An **automated restaurant management system** built with OutSystems that seamlessly integrates **menu handling** and **inventory tracking**. Designed for efficiency and accuracy, it streamlines kitchen operations, reduces waste, and enhances the overall dining experience through smart digital solutions.
 
 ---
