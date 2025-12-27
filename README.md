@@ -52,7 +52,6 @@ This system is developed for **Tongs and Jerry Restaurant** located in Calibag, 
 ## 📁 Repository Contents
 
 - `TongsJerry_Restaurant_v159.oml` - Published module file (importable to OutSystems)
-- `TongsJerry_Restaurant_Module_Solution.oml` - Module solution file
 - `README.md` - This documentation file
 
 ---
