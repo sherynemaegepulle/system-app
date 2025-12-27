@@ -78,7 +78,7 @@ This system is developed for **Tongs and Jerry Restaurant** located in Calibag, 
 - **Username:** `admin`
 - **Password:** `administrator`
 
-### **Staff/Cashier:**
+### **Staff:**
 - **Username:** `Staff`
 - **Password:** `staff1`
 
