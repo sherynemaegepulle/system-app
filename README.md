@@ -17,15 +17,14 @@ This system is developed for **Tongs and Jerry Restaurant** located in Calibag, 
 - Receive email confirmation upon order confirmation/rejection
 - Browse order history
 
-### 👩‍💼 **For Staff (Cashier):**
+### 👩‍💼 **For Staff:**
 - Process and manage customer orders
-- Update menu availability manually
 - View active orders and transaction details
 - Manage product listings (add/edit/delete dishes)
 
 ### 👨‍💼 **For Administrators:**
 - Manage staff accounts and permissions
-- View sales dashboard with KPIs (Total Revenue, Total Orders, etc.)
+- View sales dashboard (Total Revenue, Total Orders, etc.)
 - Generate sales reports filtered by date
 - Monitor best-selling items and popularity rankings
 
@@ -76,16 +75,16 @@ This system is developed for **Tongs and Jerry Restaurant** located in Calibag, 
 ## 👥 User Roles & Credentials (For Testing)
 
 ### **Administrator:**
-- **Username:** `admin@tongsjerry.com`
-- **Password:** `Admin@123`
+- **Username:** `admin`
+- **Password:** `administrator`
 
 ### **Staff/Cashier:**
-- **Username:** `staff01@tongsjerry.com`
-- **Password:** `Staff@123`
+- **Username:** `Staff`
+- **Password:** `staff1`
 
 ### **Customer:**
-- **Username:** `customer@tongsjerry.com`
-- **Password:** `Customer@123`
+- **Username:** `krizha`
+- **Password:** `maem123`
 
 > ⚠️ **Note:** These are sample credentials. Replace with actual credentials in production.
 
